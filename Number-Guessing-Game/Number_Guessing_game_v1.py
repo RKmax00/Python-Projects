@@ -1,3 +1,20 @@
+"""
+Project: Number Guessing Game v1.0
+
+Features:
+- Four Difficulty Levels (Easy, Medium, Hard, Hardest)
+- Random Number Generation
+- Attempt Limit Based on Difficulty
+- High Score System
+- Hint System
+- Play Again Option
+- Input Validation
+- Guess Validation
+- Console-Based Gameplay
+
+Author: Rohan Koli
+"""
+
 import random
 
 highscore = 99999
