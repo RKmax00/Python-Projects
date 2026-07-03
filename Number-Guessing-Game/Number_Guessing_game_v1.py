@@ -78,4 +78,3 @@ while True:
     else:
         print("invalid argument")
         break
-              
